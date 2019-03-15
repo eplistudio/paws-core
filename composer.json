@@ -1,0 +1,18 @@
+{
+    "name": "eplistudio/paws-core",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Li Hao Xu",
+            "email": "li.haoxu@eplistuido.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+        "yiisoft/yii2": "2.0.14"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "~2.0.0",
+        "phpunit/phpunit": "~6.5.5"
+    }
+}
