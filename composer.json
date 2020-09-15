@@ -9,7 +9,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "yiisoft/yii2": "2.0.14"
+        "yiisoft/yii2": "2.0.38"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
